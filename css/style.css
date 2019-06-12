@@ -17,7 +17,7 @@ body { background-color: #fff; font-size: .85em; margin: 20; padding: 20;
 #subtitle-header {
     position: absolute;
     font-size: 10px;
-    
+    top: 13%;
 }
 h1, h2, h3,{ color: #000; margin-bottom: 0; padding-bottom: 0; }
 h1 { font-size: 2em; }
